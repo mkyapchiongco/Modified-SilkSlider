@@ -1,5 +1,5 @@
 # Modified-SilkSlider
-Inference of silk-like structural proteins (SLSPs). This script and the associated python find_glycine-rich_seqs.py are a simplified knock-off of the SilkSlider pipeline published in McDougall et al. 2016. PLoS ONE 11(7): e015928.
+Inference of silk-like structural proteins (SLSPs). This script and the associated python find_glycine-rich_seqs.py are a simplified knock-off of the SilkSlider pipeline published in McDougall et al. 2016. PLoS ONE 11(7): e015928. Modified by [Kevin M. Kocot](https://github.com/kmkocot)
 See: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159128 and https://github.com/wwood/SilkSlider
 
 ## Dependancies 
